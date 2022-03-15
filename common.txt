@@ -2,6 +2,6 @@
 -
 2
 -
-3
+3 : right changes line 3 after left
 -
 4
