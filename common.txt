@@ -4,4 +4,4 @@
 -
 3 : right changes line 3 after left
 -
-4
+4 : right changes line 4 contemporarily
