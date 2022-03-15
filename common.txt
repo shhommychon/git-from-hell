@@ -1,6 +1,6 @@
 1
 -
-2
+2 : left changes line 2 first
 -
 3
 -
