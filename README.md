@@ -2,7 +2,7 @@
 
 * 실습 repo
 
-
+![git](https://user-images.githubusercontent.com/38153357/158351948-1ee409d4-5371-490d-9960-855ad0bde633.png)
 
 ###### 녹화 강의 목록
 
