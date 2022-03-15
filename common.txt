@@ -1,7 +1,7 @@
 1
 -
-2
+2 : left changes line 2 first
 -
 3 : right changes line 3 after left
 -
-4 : right changes line 4 contemporarily
+4 : left and right changes line 4 contemporarily
